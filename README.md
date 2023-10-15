@@ -1,7 +1,7 @@
 ## Sell.it
 
 ### Description
-A pet e-commerce project that allows you to manage and sell products seamlessly. It leverages microservices architecture with FastAPI to create a powerful API for product management and React for the user-friendly frontend. It uses RedisJSON as a Database and dispatch events between microservices with Redis Streams.
+A pet e-commerce project (for learning purpose) that allows you to manage and sell products seamlessly. It leverages microservices architecture with FastAPI to create a powerful API for product management and React for the user-friendly frontend. It uses RedisJSON as a Database and dispatch events between microservices with Redis Streams.
 
 ### Table of Contents
 
